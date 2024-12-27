@@ -838,7 +838,7 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  border: 2px solid rgba(255, 255, 255, 1);
+  /* border: 2px solid rgba(255, 255, 255, 1); */
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   border-bottom-left-radius: 8px;
@@ -945,7 +945,7 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  border: 2px solid rgba(255, 255, 255, 1);
+  /* border: 2px solid rgba(255, 255, 255, 1); */
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   border-bottom-left-radius: 8px;
@@ -1052,7 +1052,7 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  border: 2px solid rgba(255, 255, 255, 1);
+  /* border: 2px solid rgba(255, 255, 255, 1); */
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   border-bottom-left-radius: 8px;
@@ -1159,7 +1159,7 @@ body {
   background-size: cover;
   top: 0px;
   left: 0px;
-  border: 2px solid rgba(255, 255, 255, 1);
+  /* border: 2px solid rgba(255, 255, 255, 1); */
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
   border-bottom-left-radius: 8px;
@@ -1613,8 +1613,8 @@ body {
   position: absolute;
   top: 8px;
   left: 16px;
-  font-family: Mazzard;
-  font-weight: H Bold;
+  font-family: 'Arimo';
+  font-weight:  Bold;
   font-size: 14px;
   opacity: 1;
   text-align: left;
@@ -1625,7 +1625,7 @@ body {
   position: absolute;
   top: 32px;
   left: 16px;
-  font-family: Inter;
+  font-family: Arimo;
   font-weight: Regular;
   font-size: 10px;
   opacity: 1;
